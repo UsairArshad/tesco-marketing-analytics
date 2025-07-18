@@ -1,4 +1,4 @@
-# tesco-marketing-analytics
+# tesco-marketing-analysis
 Description:
 📊 Data-driven marketing strategy for Tesco PLC using customer segmentation, churn prediction, and market basket analysis. Power BI dashboard included.
 
