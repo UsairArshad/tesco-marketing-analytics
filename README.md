@@ -27,11 +27,4 @@ graph TD
     D --> E[Power BI Visualization]
 
 
-## 💼 Professional Context
-This project demonstrates my ability to:
-- Translate business problems into data solutions
-- Develop end-to-end analytics pipelines
-- Communicate insights effectively to stakeholders
-- Apply data mining techniques to real-world scenarios
-
 
